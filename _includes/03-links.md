@@ -1,1 +1,1 @@
-[Github] (https://github.com/stepin104944)
+[Github](https://github.com/stepin104944)
